@@ -1,2 +1,4 @@
 /.idea/
-/discovery/gradle/
+#/discovery/gradle/
+#/random-names-api/gradle/
+/*/gradle/
